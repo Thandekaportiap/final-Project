@@ -1,0 +1,35 @@
+* {
+    background-color: transparent;
+}
+.header {
+    height: 1064px ;
+    width: 1280px;
+    top: -933px;
+}
+.top {
+    width: 1189px;
+    height: 50;
+    top: 1;
+    left: 39px;
+}
+.manu {
+    width: 1280px;
+    height: 81px;
+    top: 50px;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    float: left;
+  }
+  .button {
+    background-color: red
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+  }
